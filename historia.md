@@ -1,0 +1,4 @@
+
+Git fue creado en 2005 por Linus Torvalds, el mismo desarrollador que inició el kernel de Linux. En ese momento el proyecto Linux usaba una herramienta de control de versiones llamada BitKeeper, pero se perdió la licencia gratuita y el equipo necesitaba una alternativa libre y muy rápida.Para resolver ese problema, Torvalds diseñó Git como un sistema distribuido capaz de manejar muchísimos archivos y colaboradores sin perder rendimiento.
+
+Hoy en día Git se usa como estándar para el control de versiones en proyectos de software: permite guardar el historial de cambios, trabajar con ramas, fusionar trabajo de varias personas y volver atrás si algo sale mal. Gracias a herramientas basadas en Git, como GitHub, equipos de todo el mundo pueden colaborar sobre el mismo código de forma organizada y segura.
